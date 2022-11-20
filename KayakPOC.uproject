@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.0",
+	"EngineAssociation": "5.1",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -16,10 +16,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Volumetrics",
-			"Enabled": true
-		},
-		{
 			"Name": "Bridge",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
@@ -27,6 +23,14 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "Volumetrics",
+			"Enabled": true
+		},
+		{
+			"Name": "Reflex",
+			"Enabled": true
 		}
 	]
 }
