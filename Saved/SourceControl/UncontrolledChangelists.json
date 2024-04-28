@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Programming/UnrealDev/KayakFinished/KayakFinished/Content/Levels/Mountain_Test_BuiltData.uasset",
+				"E:/Programming/UnrealDev/KayakFinished/KayakFinished/Content/Levels/Mountain_Test.umap",
+				"E:/Programming/UnrealDev/KayakFinished/KayakFinished/Content/Levels/MainMenuWidget.uasset",
+				"E:/Programming/UnrealDev/KayakFinished/KayakFinished/Content/Levels/CreditsMenuWidget.uasset",
+				"E:/Programming/UnrealDev/KayakFinished/KayakFinished/Content/Levels/MainMenuLevel.umap"
+			]
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\programming\\unrealdev\\kayakfinished\\kayakfinished\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\kayakfinished\\module.kayakfinished.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\programming\\unrealdev\\kayakfinished\\kayakfinished\\intermediate\\build\\win64\\x64\\kayakfinished\\shipping\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "e:\\programming\\unrealdev\\kayakfinished\\kayakfinished\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\kayakfinished\\definitions.kayakfinished.h",
+            "e:\\programming\\unrealdev\\kayakfinished\\kayakfinished\\intermediate\\source\\kayakfinished.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

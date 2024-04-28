@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"E:\\Programming\\UnrealDev\\KayakFinished\\KayakFinished\\Intermediate\\Source\\KayakFinished.Build.cs",
+		"E:\\Programming\\UnrealDev\\KayakFinished\\KayakFinished\\Intermediate\\Source\\KayakFinished.Target.cs",
+		"E:\\Programming\\UnrealDev\\KayakFinished\\KayakFinished\\Intermediate\\Source\\KayakFinishedClient.Target.cs",
+		"E:\\Programming\\UnrealDev\\KayakFinished\\KayakFinished\\Intermediate\\Source\\KayakFinishedEditor.Target.cs",
+		"E:\\Programming\\UnrealDev\\KayakFinished\\KayakFinished\\Intermediate\\Source\\KayakFinishedServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
